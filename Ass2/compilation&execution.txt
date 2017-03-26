@@ -1,0 +1,7 @@
+Compilation:
+cc -o receiver.o receiver.c
+cc -o processor.o processor.c
+
+Execution:
+./receiver.o
+./processor.o
